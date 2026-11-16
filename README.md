@@ -16,9 +16,8 @@ Sistema de consola en MASM x86 de 32 bits con la biblioteca Irvine32 para una ti
 
 [INVENTARIO DE INVENTARIO](TiendaElectronica/plantillaInterfaces1/inventario2026.txt)
 
-[INFORME](https://github.com/IvanMartinez09/Proyecto-UNIDAD2/blob/main/Informe_TiendaElectronica.pdf)
+[REPORTE](https://github.com/IvanMartinez09/PROYECTOU3-LENGUAJEDEINTERFACES/blob/main/Reporte_TiendaElectronica_U3.pdf)
 
-[TABLA DE PRUEBAS](https://github.com/IvanMartinez09/Proyecto-UNIDAD2/blob/main/TablaPruebas_TiendaElectronica.pdf)
 
 
 ## Compilación y ejecución
