@@ -1,2 +1,32 @@
-# PROYECTOU3-LENGUAJEDEINTERFACES
-Tienda de Electronica: inventario y ventas 
+# Proyecto U3: Tienda de Electrónica: inventario y ventas (Macros, Procedimientos y USES)
+
+Materia: Lenguajes de Interfaz
+
+Docente: Dr. José Luis Medina Jiménez
+
+Integrantes:
+
+* José Ángel Grande Espinoza
+* Jesús Iván Martínez Reyes
+* Angel Ernesto Santos Plazola
+
+Sistema de consola en MASM x86 de 32 bits con la biblioteca Irvine32 para una tienda de electrónica. Permite registrar hasta 10 productos, consultarlos y buscarlos por código, recibir mercancía, vender, ver un resumen de la sesión y guardar el catálogo en un archivo de texto para recuperarlo en otra ejecución, ahora con la implementacion de macros, procedimientos y USES para modularizar el codigo.
+
+[CODIGO](TiendaElectronica/plantillaInterfaces1/main.asm)
+
+[INVENTARIO DE INVENTARIO](TiendaElectronica/plantillaInterfaces1/inventario2026.txt)
+
+[INFORME](https://github.com/IvanMartinez09/Proyecto-UNIDAD2/blob/main/Informe_TiendaElectronica.pdf)
+
+[TABLA DE PRUEBAS](https://github.com/IvanMartinez09/Proyecto-UNIDAD2/blob/main/TablaPruebas_TiendaElectronica.pdf)
+
+
+## Compilación y ejecución
+
+1. Clonar el repositorio:
+   ```
+   git clone https://github.com/IvanMartinez09/Proyecto-UNIDAD2.git
+   ```
+2. Abrir el archivo `.sln` que está dentro de la carpeta `TiendaElectronica`.
+3. Verificar que la plataforma seleccionada sea **x86**.
+4. Compilar con **Ctrl + Shift + B**.
