@@ -1,8 +1,8 @@
 # Proyecto U3: Tienda de Electrónica: inventario y ventas (Macros, Procedimientos y USES)
 
-Materia: Lenguajes de Interfaz
+Materia: Lenguajes de Interfaz.
 
-Docente: Dr. José Luis Medina Jiménez
+Docente: Dr. José Luis Medina Jiménez.
 
 Integrantes:
 
