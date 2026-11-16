@@ -12,7 +12,7 @@ Integrantes:
 
 Sistema de consola en MASM x86 de 32 bits con la biblioteca Irvine32 para una tienda de electrónica. Permite registrar hasta 10 productos, consultarlos y buscarlos por código, recibir mercancía, vender, ver un resumen de la sesión y guardar el catálogo en un archivo de texto para recuperarlo en otra ejecución, ahora con la implementacion de macros, procedimientos y USES para modularizar el codigo.
 
-[CODIGO](TiendaElectronica/plantillaInterfaces1/main.asm)
+[CODIGO](https://github.com/IvanMartinez09/PROYECTOU3-LENGUAJEDEINTERFACES/blob/main/PROYECTOUNIDAD3/plantillaInterfaces1/main.asm)
 
 [INVENTARIO DE INVENTARIO](TiendaElectronica/plantillaInterfaces1/inventario2026.txt)
 
